@@ -125,7 +125,7 @@ main {
 }
 
 .voador {
-  background: #A4C2BD;
+  background: #B2D7D1;
 	color: #2F6C62;
 	border: 1px solid #2F6C62;
 }
@@ -140,6 +140,12 @@ main {
 	background: #a6b91a;
 	color: #495205;
 	border: 1px solid #495205;
+}
+
+.normal {
+	background: #9f9f9f;
+	color: #333;
+	border: 1px solid #333;
 }
 
 /* Descrição do Pokémon */
