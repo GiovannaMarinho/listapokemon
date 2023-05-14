@@ -17,7 +17,11 @@ header h1 {
 }
 
 header .logo {
-	margin-top: 9px;
+	margin-top: 8px;
+}
+
+header .imagem-botao {
+	margin-top: 2px;
 }
 
 header .logo,
