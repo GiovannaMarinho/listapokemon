@@ -16,6 +16,10 @@ header h1 {
 	color: #310606;
 }
 
+header .logo {
+	margin-top: 9px;
+}
+
 header .logo,
 header .imagem-botao {
 	width: 30px;
@@ -118,9 +122,9 @@ main {
 }
 
 .fogo {
-	background: #ee8130;
-	color: #743404;
-	border: 1px solid #743404;
+	background: #DF4615;
+	color: #741E02;
+	border: 1px solid #741E02;
 }
 
 .voador {
