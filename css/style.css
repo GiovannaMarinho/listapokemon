@@ -127,8 +127,8 @@ main {
 
 .fogo {
 	background: #DF4615;
-	color: #741E02;
-	border: 1px solid #741E02;
+	color: #392018;
+	border: 1px solid #392018;
 }
 
 .voador {
@@ -153,6 +153,36 @@ main {
 	background: #9f9f9f;
 	color: #333;
 	border: 1px solid #333;
+}
+
+.fada {
+	background: #FFD1FA;
+	color: #E459D5;
+	border: 1px solid #E459D5;
+}
+
+.terra {
+	background: #CBAA56;
+	color: #4F3F15;
+	border: 1px solid #4F3F15;
+}
+
+.eletrico {
+	background: #F8E643;
+	color: #7C7E10;
+	border: 1px solid #7C7E10;
+}
+
+.lutador {
+	background: #953F0F;
+	color: #381704;
+	border: 1px solid #381704;
+}
+
+.psiquico {
+	background: #A944C2;
+	color: #460955;
+	border: 1px solid #460955;
 }
 
 /* Descrição do Pokémon */
